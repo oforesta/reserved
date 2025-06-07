@@ -18,7 +18,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className="py-3 px-16 flex flex-col min-h-screen"
+        className="py-3 px-16 flex flex-col min-h-screen bg-neutral-50"
       >
         <Header />
         {children}
