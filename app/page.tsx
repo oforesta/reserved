@@ -2,7 +2,7 @@
 
 export default function Home() {
   return (
-    <div>
+    <div className="flex-grow">
       <h1>main page</h1>
     </div>
   );
