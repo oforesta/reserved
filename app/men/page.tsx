@@ -1,9 +1,10 @@
+
 import BannerImageMen from '@/components/shared/banners/BannerImageMen';
 import React from 'react';
 
 const page = () => {
   return (
-    <div>
+    <div className="flex-grow min-h-screen py-4">
       <BannerImageMen />
     </div>
   );
